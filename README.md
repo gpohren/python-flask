@@ -6,7 +6,7 @@ O projeto consiste em um sistema de controle de estoque, onde poderemos criar, e
 
 * Python
 * Flask
-* MongoDB
+* MongoDB Atlas
 
 ## Agradecimento
 
